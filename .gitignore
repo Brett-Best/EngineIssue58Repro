@@ -1,0 +1,8 @@
+.build/
+Derived/
+
+.DS_Store
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+**/xcshareddata/xcschemes/Generate Project.xcscheme
